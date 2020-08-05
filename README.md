@@ -21,6 +21,8 @@ Output of this code is train and test sets along with class labels.
 ### How to run this python code?
 Please provide the path to the director containing images to imFolder.\
 As an example, a few images are kept in the folder 'images'.\
+Few samples are kept here for complete dataset please refer\
+https://mcrlab.net/research/mvsa-sentiment-analysis-on-multi-view-social-data/\
 Also it is required to change to current directory using os.chdir().\
 The ground truth i.e class label information is to be kept in the file groundTruthMv_a.txt.
 
